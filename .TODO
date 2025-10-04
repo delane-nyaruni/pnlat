@@ -1,0 +1,37 @@
+MD041
+
+[v] map the ui nav links in app.jsx
+[v] make module export file for network configs
+[v] add search query on tables
+[v] enable dark theme
+[v] modal fix
+[v] nav ui fix
+[v] ip log
+[v] hide balance
+[*] pic
+[V] copy clipboard
+[] tokens
+[] csv export & import in web app
+[v] charts
+[] push notification
+[x] calender
+[] auth
+[V] loading
+[] update
+[x] pdf
+
+npx update-browserslist-db@latest
+vite
+[x] workbox-https
+
+multer ,exceljs,read-excel-file, sequelize
+npm install express passport passport-oauth2 express-session dotenv
+
+lozenai.com/nodejs-upload-excel-files-to-database
+
+SSL
+"start": "set HTTPS=true&&set SSL_CRT_FILE=C:/Windows/System32/cert.crt&&set SSL_KEY_FILE=C:/Windows/System32/cert.key&&react-scripts start",
+
+serve -s build -l 62025
+enginx
+
